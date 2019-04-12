@@ -1,0 +1,3 @@
+rootProject.name = 'diamond_insta_2211'
+
+include ':app'
